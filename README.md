@@ -24,10 +24,6 @@
   🧠 底层原理剖析  
   🎯 高频变形题预警
 
-### 🗺️ 可视化导航
-![知识图谱示例](https://via.placeholder.com/800x400.png/009688/fff?text=Knowledge+Map+Preview)  
-*(实际仓库将提供交互式知识图谱)*
-
 ---
 
 ## 📂 仓库结构
